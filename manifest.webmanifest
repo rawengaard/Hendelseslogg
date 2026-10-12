@@ -1,0 +1,16 @@
+{
+  "name": "Hendelseslogg",
+  "short_name": "Hendelseslogg",
+  "description": "Logg hendelser per dag for to barn. Data lagres kun lokalt på telefonen.",
+  "lang": "nb",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EDF6F1",
+  "theme_color": "#1F8A63",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
